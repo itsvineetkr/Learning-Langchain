@@ -4,3 +4,8 @@ python-dotenv
 streamlit
 langchain_community
 langchain-huggingface
+
+fastapi
+langserve
+uvicorn
+sse_starlette
