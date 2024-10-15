@@ -1,4 +1,6 @@
+langchain
 langchain_core
 python-dotenv
 streamlit
 langchain_community
+langchain-huggingface
