@@ -9,3 +9,9 @@ fastapi
 langserve
 uvicorn
 sse_starlette
+
+bs4
+pypdf
+langchain_openai
+chromadb
+faiss-cpu
